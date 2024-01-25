@@ -23,5 +23,3 @@ jobs:
 
       - name: Lancement des tests
         run: npm test
-
-     # à compléter
